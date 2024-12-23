@@ -10,6 +10,7 @@
 - aiogram
 - asyncio
 - random
+- ещё дофига, мне лень писать
 
 ### БД:
 - sqlite
