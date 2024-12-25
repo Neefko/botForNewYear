@@ -15,7 +15,7 @@ import generate
 # import time
 
 # Тут должен быть ваш токен. Ссылка на бота https://t.me/new_33_year_bot
-token = Bot(token="8191555772:AAGejXO9FhE9NCuzx65hphPOHQgYy8lpaIM")
+token = Bot(token="")
 dp = Dispatcher()
 
 db_link = Link()
